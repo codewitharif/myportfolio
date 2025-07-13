@@ -23,7 +23,7 @@ const userData = {
       imgUrl: "/portfolio.png",
     },
     {
-      title: "BG Remover Pro – Background Removal SaaS Application",
+      title: "BG Remover Pro – SaaS Application",
       link: "https://bgremoversaasapp.vercel.app/",
       imgUrl: "/bgRemover.png",
     },
