@@ -32,9 +32,9 @@ const userData = {
     title:
       "I'm a software developer passionate about building impactful web applications and digital products.",
     description: [
-      `I started my development journey at a young age, experimenting with front-end and back-end technologies before I even knew the term "full-stack developer". What began as curiosity has now grown into a passion for building scalable, user-friendly web applications.`,
-      `Over time, I learned to overcome early challenges—struggling with CSS led me to discover Bootstrap, which made styling faster and cleaner. That experience taught me the value of using the right tools to solve problems efficiently.`,
-      `Today, I specialize in full-stack development using technologies like React, Node.js, Express, MongoDB, MySQL, Bootstrap, and Tailwind CSS. I enjoy turning ideas into real-world products that deliver value to users.`,
+      `I build full-stack web applications using modern technologies like React, Node.js, Express, and MongoDB. My focus is on creating responsive, scalable, and user-friendly products.`,
+      `During my journey, I’ve worked on various projects ranging from landing pages to complete SaaS platforms. Along the way, I’ve become comfortable with tools like Tailwind CSS, Bootstrap, MySQL, and REST APIs.`,
+      `I love learning new technologies and building projects that not only work but add real value. My goal is to keep improving and contribute to meaningful products.`,
     ],
     currentProject: "BG Remover Pro – SaaS Application",
     currentProjectUrl: "https://bgremoversaasapp.vercel.app/",
