@@ -8,24 +8,24 @@ const userData = {
   address: "Bokaro, Jharkhand, India.",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "ERP Billing Software",
+      link: "https://bizstripe.vercel.app/",
+      imgUrl: "/erpapp.png",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "Personal Finance & Budget Management",
+      link: "https://expensetrackerappclient.vercel.app/",
+      imgUrl: "/incomeExpense.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
+      title: "JobMarket – Job Portal Web Application",
+      link: "https://jobportalappclient.vercel.app/",
       imgUrl: "/portfolio.png",
     },
     {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
+      title: "BG Remover Pro – Background Removal SaaS Application",
+      link: "https://bgremoversaasapp.vercel.app/",
+      imgUrl: "/bgRemover.png",
     },
     {
       title: "Algochurn",
