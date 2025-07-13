@@ -27,27 +27,6 @@ const userData = {
       link: "https://jobportalappclient.vercel.app/",
       imgUrl: "/jobPortal.png",
     },
-
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
   ],
   about: {
     title:
@@ -57,8 +36,8 @@ const userData = {
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
       `But now, I'm a legend. I've been coding in React, Node.js, Express,  MongoDB, MySQL, Bootstrap and Tailwind.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "BG Remover Pro – SaaS Application",
+    currentProjectUrl: "https://bgremoversaasapp.vercel.app/",
   },
   experience: [
     {
@@ -67,13 +46,6 @@ const userData = {
       year: "2024",
       companyLink: "https://biznweb.com/",
       desc: "Contributed to a hotel booking application - Panna - which is an AI powered candidate interviewing product.",
-    },
-    {
-      title: "Founder and Developer",
-      company: "TailwindMasterKit",
-      year: "2021",
-      companyLink: "https://tailwindmasterkit.com",
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
     },
 
     {
@@ -98,8 +70,8 @@ const userData = {
     twitter: "https://twitter.com/mdarif1522003",
     linkedin: "https://linkedin.com/in/mdarif1522003",
     github: "https://github.com/codewitharif",
-    facebook: "https://facebook.com/",
-    peerlist: "https://peerlist.io/manuarora",
+    facebook: "",
+    peerlist: "",
   },
 };
 
