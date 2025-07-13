@@ -8,6 +8,11 @@ const userData = {
   address: "Bokaro, Jharkhand, India.",
   projects: [
     {
+      title: "BG Remover Pro – SaaS Application",
+      link: "https://bgremoversaasapp.vercel.app/",
+      imgUrl: "/bgRemover.png",
+    },
+    {
       title: "ERP Billing Software",
       link: "https://bizstripe.vercel.app/",
       imgUrl: "/erpapp.png",
@@ -20,13 +25,9 @@ const userData = {
     {
       title: "JobMarket – Job Portal Web Application",
       link: "https://jobportalappclient.vercel.app/",
-      imgUrl: "/portfolio.png",
+      imgUrl: "/jobPortal.png",
     },
-    {
-      title: "BG Remover Pro – SaaS Application",
-      link: "https://bgremoversaasapp.vercel.app/",
-      imgUrl: "/bgRemover.png",
-    },
+
     {
       title: "Algochurn",
       link: "https://algochurn.com",
